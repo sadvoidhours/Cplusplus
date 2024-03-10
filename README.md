@@ -1,2 +1,3 @@
 # Cplusplus
 C++ codes
+This collection comprises a series of C++ code projects representing the diverse range of activities undertaken during your first year at college. From foundational exercises to more intricate challenges, these projects showcase your progression and exploration within the realm of programming. Each code reflects the skills honed, concepts grasped, and creative solutions devised as you navigated through the fundamentals of C++ programming. Whether it's basic algorithms, data structures, or introductory software development tasks, this compilation serves as a testament to your dedication and growth as a budding programmer during your inaugural academic year.
